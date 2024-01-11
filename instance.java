@@ -1,3 +1,5 @@
+import java.persistence
+    
 class instance {
 
 
@@ -33,7 +35,5 @@ class instance {
 
         n.getter();
 
-        m.square();
-        n.square();
     }
 }
